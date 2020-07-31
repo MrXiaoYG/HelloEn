@@ -1,1 +1,5 @@
 new file_1 
+
+add line 3xxx
+add line 3nnn
+add line 3hhh
